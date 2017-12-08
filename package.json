@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+
+  },
+  "name": "MarvelDataAggregator",
+  "version": "1.0.0",
+  "description": "Calls API's to return data on Marvel Characters",
+  "main": "index.js",
+  "repository": "https://github.com/msgctcheng/Marvel-React-App.git",
+  "author": "Chris Cheng",
+  "license": "MIT",
+  "private": false
+}
